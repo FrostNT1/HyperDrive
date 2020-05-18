@@ -1,0 +1,5 @@
+The program takes in a list of booked times in a day of the two entities involved.
+The program is also given time restrictions and the length of the booking.
+The program iterates through the various limits in booked times and finds suitable openings,
+if various openings are found it addes them to a list of all posible time frames in which an appointment/meeting can be held.
+Finally a list of the possible values is returned.
